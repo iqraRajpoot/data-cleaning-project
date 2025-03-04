@@ -23,14 +23,7 @@ pip install numpy pandas openpyxl
 ```
 
 ## ▶️ Usage
-1️⃣ Clone this repository:
-
-```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
-
-2️⃣ Run the script:
+1️⃣ Run the script:
 
 ```sh
 python data_cleaner.py
